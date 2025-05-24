@@ -183,6 +183,11 @@ const quote = [
     text: "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
     author: "— Roy T. Bennett",
   },
+  {
+    text: "Push yourself, because no one else is going to do it for you.",
+  author: "Anonymous",
+},
+
 ];
 
 let previousIndex = "";
